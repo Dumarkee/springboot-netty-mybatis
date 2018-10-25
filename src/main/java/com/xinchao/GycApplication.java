@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan(basePackages = "com.gyc.mapper")
+@MapperScan(basePackages = "com.xinchao.mapper")
 public class GycApplication {
 
     public static void main(String[] args) {
